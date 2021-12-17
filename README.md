@@ -1,5 +1,6 @@
 # MintMod Features
 Feature list for my personal VRChat mod.
+<img src="https://MintLily.lgbt/assets/img/MintMod_Pride.png" align="right" width="200" height="200" />
 
 ## World
 - Download VRCW
