@@ -1,68 +1,102 @@
 # MintMod Features
-Feature list for my personal VRChat mod.
+Feature list for my personal VRChat mod. *Note that this mod is provate and is not given out all willy-nilly*
 <img src="https://MintLily.lgbt/assets/img/MintMod_Pride.png" align="right" width="200" height="200" />
 
-## World
-- Item ESP
-- Add Jump
-- Add Legacy Locomotion
-- Download VRCW
-- Copy World Join Link
-- Join world by instance ID or join link
-- Log World Info into txt file
-- Mirror Options (Beautify, Optimize, Normal)
-### Item Manipulation
-- Teleport Items to Self
-- Respawn Items
-- Teleport Items out of world
-### Component Toggle
-- Chair
-- Pickups
-- Pickup objects
-- Post processing
-- Pens
-- Avatar pedestals
-<br><br>
-## Player
-- ESP
-- Copy current Avatar ID
-- Change into Avatar by ID
-- Infinite Jump
-- Flight
-- No Clip
-<br><br>
-### Player List Menu Actions
-- Teleport to
-- ~~Open QM~~
-- Teleport pickups to
-- Singular ESP
-- Orbit
-- Orbit pickups
-<br><br>
-## Utilites
-- Ping Spoof
-- Framerate Spoof
-- Appear as Quest User
-- ~~Risky Function Bypass~~
-- Game ran in High Priority process
-- Uncapped framerate
-- Photon Pause
-- Portal Timer Reset / Set custom timer amount
-<br><br>
-## Avatar Menu
-- Extra Favorited Avatars (Technically unlimited but the more avatars the laggier it'll be)
-- Download VRCA
-<br><br>
-## Other Tweaks
-- Calibration Mirror
-- Custom HUD Message popups
-- Master Finder (Icon)
-- Custom Loading Menu Music
-- Recolor Ranks
-- Color ActionMenu
-- Color (non-QuickMenu) Menus
-- Color UIX
-- Color HUD Mute Icon
-- Color Loading Environment
-- Custom Nameplates for Mint Users
-- Midnight Rooftop Settings state saving
+<h1>World</h1>
+<details>
+  <summary>Features</summary>
+  <ul>
+    <li>Item ESP</li>
+    <li>Item ESP</li>
+    <li>Add Jump</li>
+    <li>Add Legacy Locomotion</li>
+    <li>Download VRCW</li>
+    <li>Copy World Join Link</li>
+    <li>Join world by instance ID or join link</li>
+    <li>Log World Info into txt file</li>
+    <li>Mirror Options (Beautify, Optimize, Normal)</li>
+  </ul>
+  <h3>Item Manipulation</h3>
+  <ul>
+    <li>Teleport Items to Self</li>
+    <li>Respawn Items</li>
+    <li>Teleport Items out of world</li>
+  </ul>
+  <h3>Component Toggle</h3>
+  <ul>
+    <li>Chair</li>
+    <li>Pickups</li>
+    <li>Pickup objects</li>
+    <li>Post processing</li>
+    <li>Pens</li>
+    <li>Avatar pedestals</li>
+  </ul>
+</details>
+
+<h1>Player</h1>
+<details>
+  <summary>Features</summary>
+  <ul>
+    <li>ESP</li>
+    <li>Copy current Avatar ID</li>
+    <li>Change into Avatar by ID</li>
+    <li>Infinite Jump</li>
+    <li>Flight</li>
+    <li>No Clip</li>
+  </ul>
+</details>
+
+<h1>Player List Menu Actions</h1>
+<details>
+  <summary>Features</summary>
+  <ul>
+    <li>Teleport to</li>
+    <li><s>Open QM</s></li>
+    <li>Singular ESP</li>
+    <li>Orbit</li>
+    <li>Orbit pickups</li>
+  </ul>
+</details>
+
+<h1>Utilites</h1>
+<details>
+  <summary>Features</summary>
+  <ul>
+    <li>Ping Spoof</li>
+    <li>Framerate Spoof</li>
+    <li>Appear as Quest User</li>
+    <li>Risky Function Bypass</li>
+    <li>Game ran in High Priority process</li>
+    <li>Uncapped framerate</li>
+    <li>Photon Pause</li>
+    <li>Portal Timer Reset / Set custom timer amount</li>
+  </ul>
+</details>
+
+<h1>Avatar Menu</h1>
+<details>
+  <summary>Features</summary>
+  <ul>
+    <li>Extra Favorited Avatars (Technically unlimited but the more avatars the laggier it'll be)</li>
+    <li>Download VRCA</li>
+  </ul>
+</details>
+
+<h1>Others</h1>
+<details>
+  <summary>Other Tweaks</summary>
+  <ul>
+    <li>Calibration Mirror</li>
+    <li>Custom HUD Message popups</li>
+    <li>Master Finder (Icon)</li>
+    <li>Custom Loading Menu Music</li>
+    <li>Recolor Ranks</li>
+    <li>Color ActionMenu</li>
+    <li>Color (non-QuickMenu) Menus</li>
+    <li>Color UIX</li>
+    <li>Color HUD Mute Icon</li>
+    <li>Color Loading Environment</li>
+    <li>Custom Nameplates for Mint Users</li>
+    <li>Midnight Rooftop Settings state saving</li>
+  </ul>
+</details>
