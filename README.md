@@ -43,6 +43,25 @@ Feature list for my personal VRChat mod. *Note that this mod is provate and is n
     <li>Infinite Jump</li>
     <li>Flight</li>
     <li>No Clip</li>
+    <li>
+      <details>
+        <summary>Player List</summary>
+        <ul>
+          <li>Move onto Left or Right Wing</li>
+          <li>Limit or show all players</li>
+          <li>Background Color & Opacity</li>
+          <li>Local Name Spoof on list</li>
+          <li>Each Player will be listed with:
+            <ul>
+              <li>Player name (Colored by rank)</li>
+              <li>Ping</li>
+              <li>FPS</li>
+              <li>Avatar Performance</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+    </li>
   </ul>
 </details>
 
