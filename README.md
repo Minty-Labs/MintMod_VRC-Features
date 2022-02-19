@@ -1,12 +1,11 @@
 # MintMod Features
-Feature list for my personal VRChat mod. *Note that this mod is provate and is not given out all willy-nilly*
+Feature list for my personal VRChat mod. *Note that this mod is private and is not given out all willy-nilly*
 <img src="https://MintLily.lgbt/assets/img/MintMod_Pride.png" align="right" width="200" height="200" />
 
 <h1>World</h1>
 <details>
   <summary>Features</summary>
   <ul>
-    <li>Item ESP</li>
     <li>Item ESP</li>
     <li>Add Jump</li>
     <li>Add Legacy Locomotion</li>
