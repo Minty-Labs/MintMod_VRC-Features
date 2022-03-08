@@ -82,7 +82,7 @@ Feature list for my personal VRChat mod. *Note that this mod is private and is n
   <ul>
     <li>Ping Spoof</li>
     <li>Framerate Spoof</li>
-    <li>Appear as Quest User</li>
+    <li><s>Appear as Quest User</s> (Bannable)</li>
     <li>Risky Function Bypass</li>
     <li>Game ran in High Priority process</li>
     <li>Uncapped framerate</li>
@@ -104,14 +104,12 @@ Feature list for my personal VRChat mod. *Note that this mod is private and is n
 <details>
   <summary>Other Tweaks</summary>
   <ul>
-    <li>Calibration Mirror</li>
     <li>Custom HUD Message popups</li>
     <li>Master Finder (Icon)</li>
     <li>Custom Loading Menu Music</li>
     <li>Recolor Ranks</li>
     <li>Color ActionMenu</li>
     <li>Color (non-QuickMenu) Menus</li>
-    <li>Color UIX</li>
     <li>Color HUD Mute Icon</li>
     <li>Color Loading Environment</li>
     <li>Custom Nameplates for Mint Users</li>
