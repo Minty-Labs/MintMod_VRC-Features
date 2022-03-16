@@ -20,6 +20,7 @@ Feature list for my personal VRChat mod. *Note that this mod is private and is n
     <li>Teleport Items to Self</li>
     <li>Respawn Items</li>
     <li>Teleport Items out of world</li>
+    <li>Mint Specific World Toggles (by special Game Object names)</li>
   </ul>
   <h3>Component Toggle</h3>
   <ul>
@@ -58,6 +59,9 @@ Feature list for my personal VRChat mod. *Note that this mod is private and is n
               <li>Avatar Performance</li>
             </ul>
           </li>
+          <li>Room Timer</li>
+          <li>Game Timer</li>
+          <li>System Time (12 or 24 hour)</li>
         </ul>
       </details>
     </li>
