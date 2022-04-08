@@ -99,7 +99,7 @@ Feature list for my personal VRChat mod. *Note that this mod is private and is n
 <details>
   <summary>Features</summary>
   <ul>
-    <li>Extra Favorited Avatars (Technically unlimited but the more avatars the laggier it'll be)</li>
+    <li>Unlimited Favorited Avatars</li>
     <li>Download VRCA</li>
   </ul>
 </details>
